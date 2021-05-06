@@ -1,0 +1,6 @@
+<svg id="Notification" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect id="Bg" width="50" height="50" rx="25" fill="#fafafa" opacity="0.1"/>
+  <g id="Notification_icon" data-name="Notification icon" transform="translate(13.998 13.998)">
+    <path id="Notification_icon-2" data-name="Notification icon" d="M7.883,18.351h5.955c0,2.018-1.332,3.649-2.98,3.649S7.883,20.369,7.883,18.351Zm0,0Zm3.039-.128H0S5.369,14.708,5.453,5.488l0-.036A5.619,5.619,0,0,1,10.922.008V0c.025,0,.053,0,.078,0s.051,0,.076,0V.008a5.628,5.628,0,0,1,5.475,5.444l-.006.036C16.631,14.708,22,18.223,22,18.223Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

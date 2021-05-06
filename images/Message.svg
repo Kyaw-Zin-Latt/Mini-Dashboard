@@ -1,0 +1,9 @@
+<svg id="Message" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect id="bg" width="50" height="50" rx="25" fill="#fafafa" opacity="0.1"/>
+  <g id="message_icon" data-name="message icon" transform="translate(13.999 14.002)">
+    <path id="Union_3" data-name="Union 3" d="M.622,20.21a4.744,4.744,0,0,0,2.5-3.177,10.282,10.282,0,0,1-2.387-6.6A10.537,10.537,0,0,1,11.37,0,10.538,10.538,0,0,1,22,10.437,10.539,10.539,0,0,1,11.37,20.88a10.734,10.734,0,0,1-4.984-1.218A11.085,11.085,0,0,1,1.27,21C.032,21-.517,20.676.622,20.21Z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="1.5" cy="1.5" r="1.5" transform="translate(4.763 8.939)" fill="#fff"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="1.5" cy="1.5" r="1.5" transform="translate(9.835 8.939)" fill="#fff"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="1.5" cy="1.5" r="1.5" transform="translate(14.906 8.939)" fill="#fff"/>
+  </g>
+</svg>

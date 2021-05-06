@@ -1,0 +1,44 @@
+.nav-img{
+    width: 40px;
+    height: 40px;
+}
+.nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+img{
+    width: 35px;
+    margin: 0 4px;
+}
+.facebook:hover{
+    background: #ffffff10;
+    transition: 0.5s ease-in-out;
+}
+.to-do-list:hover{
+    background: #ffffff10;
+    transition: 0.5s ease-in-out;
+    margin: 0 !important;
+    
+}
+.c100::after{
+    background-color: #1F264E !important;
+}
+
+.c100{
+    font-size: 35px !important;
+    background-color: #5f5f5f !important;
+}
+.c100 .bar{
+    border: 0.08em solid #3DFFF2 !important; 
+}
+
+.c100.p67 .fill{
+    border: 0.08em solid #3DFFF2 !important;
+}
+
+
+.c100.p55 .fill {
+    border: 0.08em solid #FF48FF !important;
+}
+
